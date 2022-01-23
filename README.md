@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasira Mahel</h1>
-<h3 align="center">A Hardworking Individual</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=%231A8BD2&size=36&center=true&vCenter=true&lines=UI/UX+Designer+%26+Developer+;Tech+Enthusiast"></a>
+</p>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasira09&label=Profile%20views&color=0e75b6&style=flat" alt="hasira09" /> </p>
+<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=hasira09&label=Profile%20views&color=0e75b6&style=flat" alt="hasira09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasira09" alt="hasira09" /></a> </p>
 
