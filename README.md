@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasira Mahel</h1>
+<h1 align="center">Hi 👋, I'm Hasira Mahel</h1><br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=%231A8BD2&size=36&center=true&vCenter=true&lines=UI/UX+Designer+%26+Developer+;Tech+Enthusiast"></a>
 </p>
