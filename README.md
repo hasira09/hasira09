@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🙌 I'm Hasira Mahel Koswatta</h1><br>
 
 # 💫 About Me:
-🔭 I’m currently working on Mobile App Development & Web Development.<br><br>🌱 I’m currently learning C#, Flutter, MERN Stack & Unity.<br><br>👯 I’m looking to collaborate with Mobile App and UI/UX Developers.<br><br>👨‍💻 All of my projects are available at https://bit.ly/hasira-website<br><br>💬 Ask me about Flutter, MERN Stack, Python, Figma, Adobe XD, etc.<br><br>📫 How to reach me hasirakoswatta09@gmail.com
+🔭 I’m currently working on Mobile App Development & Web Development.<br><br>🌱 I’m currently learning C#, .NET, Flutter, MERN Stack & Unity.<br><br>👯 I’m looking to collaborate with Mobile App and UI/UX Developers.<br><br>👨‍💻 All of my projects are available at https://bit.ly/hasira-website<br><br>💬 Ask me about Flutter, .NET Apps, MERN Stack, Python, Figma, Adobe XD, etc.<br><br>📫 How to reach me hasirakoswatta09@gmail.com
 
 
 ## 🌐 Socials:
