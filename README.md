@@ -4,10 +4,6 @@
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 44px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 44px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 44px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 0px; margin-bottom: 0px;" />
 </div>
 
-<div  align="center" ><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="85" height="85" />
-</div>
-
-
 # 💫 About Me:
 🔭 I’m currently working on Mobile App Development & Web Development.<br><br>🌱 I’m currently learning C#, .NET, Flutter, MERN Stack & Unity.<br><br>👯 I’m looking to collaborate with Mobile App and UI/UX Developers.<br><br>👨‍💻 All of my projects are available at https://bit.ly/hasira-website<br><br>💬 Ask me about Flutter, .NET Apps, MERN Stack, Python, Figma, Adobe XD, etc.<br><br>📫 How to reach me hasirakoswatta09@gmail.com
 
