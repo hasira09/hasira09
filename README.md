@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🙌 I'm Hasira Mahel Koswatta</h1><br>
 
-<div align="center">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 44px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 44px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 44px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 0px; margin-bottom: 0px;" />
+<div align = "center">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 100px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 100px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 100px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" style="width: 75px; height: 75px; margin-right: 0px; margin-bottom: 0px;" />
 </div>
 
 # 💫 About Me:
